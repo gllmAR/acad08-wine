@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "backing up  ~/.wine/system.reg ~/.wine/system.reg.bak"
+cp ~/.wine/system.reg ~/.wine/system.reg.bak
+
+

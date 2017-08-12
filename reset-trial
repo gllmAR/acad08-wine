@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "copying ~/.wine/system.reg.bak over ~/.wine/system.reg"
+
+cp ~/.wine/system.reg.bak ~/.wine/system.reg
